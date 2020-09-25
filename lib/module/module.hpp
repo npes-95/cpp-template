@@ -22,14 +22,13 @@ public:
      * @brief Construct a new Module object.
      * 
      */
-    Module() {};
+    Module();
 
     /**
-     * @brief Destroy module object. Does not destroy connected 
-     * modules as they are owned and managed by the Network.
+     * @brief Destroy module object. 
      * 
      */
-    virtual ~Module() {};
+     ~Module();
 
 };
 

@@ -11,3 +11,7 @@
  */
 
 #include <module.hpp>
+
+Module::Module() {}
+
+Module::~Module() {}

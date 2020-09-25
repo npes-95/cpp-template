@@ -6,17 +6,16 @@ set(CMAKE_CXX_STANDARD 17)
 include(CTest)
 enable_testing()
 
-# TARGETS
-set(APP_TARGET ${CMAKE_PROJECT_NAME})
+# VARIABLES
+set(APP_TARGET ${CMAKE_PROJECT_NAME}-app)
 set(TEST_TARGET ${CMAKE_PROJECT_NAME}-test)
+set(LIB_TARGETS )
+
+# LIB
+add_subdirectory(lib)
 
 # APP
-set(APP_INCLUDES ${PROJECT_SOURCE_DIR}/src/module)
-
-file(GLOB_RECURSE APP_SRCS src/*.cpp)
-
-add_executable(${APP_TARGET} ${APP_SRCS})
-target_include_directories(${APP_TARGET} PRIVATE ${APP_INCLUDES})
+add_subdirectory(src)
 
 # TESTS
 add_subdirectory(tests)
