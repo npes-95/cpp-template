@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Nicholas Smith (npe.smith.95@gmail.com)
+ * @author npes-95 (npe.smith.95@gmail.com)
  * @brief Application entry point.
  * 
  * @date 2020-09-18

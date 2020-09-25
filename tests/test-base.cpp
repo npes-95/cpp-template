@@ -1,6 +1,6 @@
 /**
  * @file test-base.cpp
- * @author Nicholas Smith (npe.smith.95@gmail.com)
+ * @author npes-95 (npe.smith.95@gmail.com)
  * @brief Entry point for tests.
  * 
  * @version 0.1

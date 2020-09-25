@@ -1,6 +1,6 @@
 /**
  * @file test-module.cpp
- * @author Nicholas Smith (npe.smith.95@gmail.com)
+ * @author npes-95 (npe.smith.95@gmail.com)
  * @brief Test cases for Module class.
  * 
  * @version 0.1

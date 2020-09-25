@@ -1,6 +1,6 @@
 /**
  * @file module.cpp
- * @author Nicholas Smith (npe.smith.95@gmail.com)
+ * @author npes-95 (npe.smith.95@gmail.com)
  * @brief Module class implementation.
  * 
  * @version 0.1

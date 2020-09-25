@@ -1,6 +1,6 @@
 /**
  * @file module.hpp
- * @author Nicholas Smith (npe.smith.95@gmail.com)
+ * @author npes-95 (npe.smith.95@gmail.com)
  * @brief Module base class definition.
  * 
  * @version 0.1
