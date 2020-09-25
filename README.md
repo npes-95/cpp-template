@@ -1,4 +1,4 @@
-# C++ Template
+# C++ Template ![build](https://github.com/npes-95/cpp-template/.github/workflows/cmake.yml/badge.svg)
 
 C++ project template with build (CMake) and testing (Catch) environment.
 
