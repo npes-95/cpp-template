@@ -24,7 +24,7 @@ Output is the executable `cpp-template`.
 ## Tests
 From the `build` directory run:
 ```
-make test
+ctest
 ```
 For more detail, run:
 ```
