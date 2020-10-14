@@ -1,5 +1,3 @@
-list(REMOVE_ITEM APP_SRCS "${PROJECT_SOURCE_DIR}/src/main.cpp") # remove app main from sources
-
 file(GLOB_RECURSE TEST_SRCS *.cpp)
 
 add_executable(${TEST_TARGET} ${TEST_SRCS}) # this could be extended to create an executable per module
